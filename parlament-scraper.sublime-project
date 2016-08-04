@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"parlament-scraper.sublime-project",
+				"cabal.sandbox.config",
+				"ChangeLog.md",
+				"LICENSE"
+			],
+			"folder_exclude_patterns":
+			[
+				".cabal-sandbox"
+			],
+			"path": "."
+		}
+	]
+}

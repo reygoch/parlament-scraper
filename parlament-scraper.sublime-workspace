@@ -1,0 +1,702 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"repo",
+				"reportMonths"
+			],
+			[
+				"galler",
+				"gallery"
+			],
+			[
+				"gallery",
+				"gallery-image"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"curr",
+				"current-query-string"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"con",
+				"contentEditable"
+			],
+			[
+				"manufa",
+				"manufacturer_result"
+			],
+			[
+				"cate",
+				"categorySelectorList"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"catego",
+				"categorySelectorLabel"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"wrap",
+				"word-wrap"
+			],
+			[
+				"wor",
+				"word-wrap"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"teal",
+				"text-align"
+			],
+			[
+				"break",
+				"word-break"
+			],
+			[
+				"fonsty",
+				"font-style"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"Se",
+				"Seti_UX"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"oc_",
+				"oc_product_to_layout"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "xslt",
+		"selected_items":
+		[
+			[
+				"xslt",
+				"Set Syntax: XSLT"
+			],
+			[
+				"xsl",
+				"Set Syntax: XSLT"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"xaml",
+				"Set Syntax: XAML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdown pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"langua",
+				"Dictionaries: Set Language"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"setjavascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			]
+		],
+		"width": 382.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Damir Kuhada/Desktop/parlament-scraper"
+	],
+	"file_history":
+	[
+		"/C/Users/Damir Kuhada/Desktop/flowershop/manifest/config.php",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/pages/contact.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/resources/css/index.css",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/pages/contact.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/pages/transactions.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/resources/js/transactions.js",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/pages/report.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/resources/js/transactions.backup.js",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/pages/flower.xsl",
+		"/C/Users/Damir Kuhada/Desktop/theme/report.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/pages/404.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/resources/js/chart.js",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/pages/transactions.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/pages/flower.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/partials/flower-preview.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/partials/tags.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/partials/menu.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/partials/pagination.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/resources/js/flowers.js",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/pages/flowers.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/resources/js/selectize.js",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/pages/flowers.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/index.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/pages/home.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/resources/js/home.js",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/resources/js/jquery.js",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/resources/js/lightbox.js",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/resources/js/unslider.js",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/pages/home.xsl",
+		"/C/Users/Damir Kuhada/Desktop/master.html",
+		"/C/Users/Damir Kuhada/Desktop/theme/kul/theme/index.xsl",
+		"/C/Users/Damir Kuhada/Desktop/theme/kul/theme/pages/about.xsl",
+		"/C/Users/Damir Kuhada/Desktop/theme/kul/theme/parts/menu.xsl",
+		"/C/Users/Damir Kuhada/Desktop/theme/kul/pages/en.xsl",
+		"/C/Users/Damir Kuhada/Desktop/theme/resources/css/index.css",
+		"/C/Users/Damir Kuhada/Desktop/fix.html",
+		"/C/Users/Damir Kuhada/Documents/projects/symphony/FlowerShop/workspace/theme/index.xsl",
+		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/data-sources/data.featured_flowers.php",
+		"/C/Users/Damir Kuhada/Desktop/chose.md",
+		"/C/Users/Damir Kuhada/Desktop/the-plan.md",
+		"/C/Users/Damir Kuhada/Downloads/RVS15-OBP-Pred-09-Skripta-01.sql",
+		"/C/Users/Damir Kuhada/Downloads/RVS15-OBP-Pred-10-Skripta-01.sql",
+		"/C/Users/Damir Kuhada/Downloads/RVS15-OBP-Pred-12-Skripta-01.sql",
+		"/C/Users/Damir Kuhada/Desktop/baze-podataka.md",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe10/Zadatak09/MainWindow.xaml",
+		"/C/Users/Damir Kuhada/Desktop/Zadaci/Vježbe12/Zadatak01/MainWindow.xaml",
+		"/C/Users/Damir Kuhada/Desktop/shal.mdown",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe10/Zadatak09/App.xaml",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe10/Zadatak09/MainWindow.xaml.cs",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe10/Zadatak05/MainWindow.xaml",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe10/Zadatak06/MainWindow.xaml",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe10/Zadatak07/MainWindow.xaml",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe10/Zadatak08/MainWindow.xaml",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe10/Zadatak08/App.xaml",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe10/Zadatak04/MainWindow.xaml",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe10/Zadatak03/MainWindow.xaml",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe09/Zadatak07/MainWindow.xaml",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe09/Zadatak07/MainWindow.xaml.cs",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe09/Zadatak05/MainWindow.xaml",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe09/Zadatak06/MainWindow.xaml",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe09/Zadatak06/MainWindow.xaml.cs",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe09/Zadatak03/MainWindow.xaml",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe09/Zadatak04/MainWindow.xaml",
+		"/C/Users/Damir Kuhada/Desktop/Vježbe09/Zadatak02/MainWindow.xaml",
+		"/C/Users/Damir Kuhada/Desktop/AdventureWorksOBP_MSSQL2008.sql",
+		"/C/Users/Damir Kuhada/Desktop/math.txt",
+		"/C/Users/Damir Kuhada/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Damir Kuhada/AppData/Roaming/Sublime Text 3/Packages/SublimeHaskell/Settings/SublimeHaskell.sublime-settings",
+		"/C/Users/Damir Kuhada/Desktop/nativelog.txt",
+		"/C/Users/Damir Kuhada/Desktop/cs",
+		"/C/Users/Damir Kuhada/Desktop/modifyer/content.js",
+		"/C/Users/Damir Kuhada/Desktop/modifyer/chrome.js",
+		"/C/Users/Damir Kuhada/Desktop/backup-MFP",
+		"/C/Users/Damir Kuhada/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Damir Kuhada/Documents/reygoch/index.html",
+		"/C/Users/Damir Kuhada/Desktop/modifyer/index.html",
+		"/C/Users/Damir Kuhada/Desktop/modifyer/manifest.json",
+		"/C/Users/Damir Kuhada/Desktop/modifyer/background.js",
+		"/C/Users/Damir Kuhada/Desktop/TrgoAuto/led.html",
+		"/C/Users/Damir Kuhada/Downloads/vinobiz_ocdb (2).sql",
+		"/C/Users/Damir Kuhada/Desktop/wwwpeninsula/admin/model/importer/importer.php",
+		"/C/Users/Damir Kuhada/Desktop/wwwpeninsula/catalog/view/theme/OPC080187_3/template/product/product.tpl",
+		"/C/Users/Damir Kuhada/Desktop/stylesheet.css",
+		"/C/Users/Damir Kuhada/Desktop/wwwpeninsula/admin/controller/importer/cijenik-vina.csv",
+		"/C/Users/Damir Kuhada/Desktop/wwwpeninsula/system/library/mfilter_core.php",
+		"/C/Users/Damir Kuhada/Desktop/wwwpeninsula/admin/controller/importer/importer.php",
+		"/C/Users/Damir Kuhada/Desktop/wwwpeninsula/admin/controller/importer/vina.csv",
+		"/C/Users/Damir Kuhada/Desktop/wwwpeninsula/admin/config.php",
+		"/C/Users/Damir Kuhada/Desktop/importer.php",
+		"/C/Users/Damir Kuhada/Desktop/cijenik-vina.csv",
+		"/C/Users/Damir Kuhada/Desktop/plan",
+		"/C/Users/Damir Kuhada/Desktop/wwwpeninsula/config.php",
+		"/C/Users/Damir Kuhada/Downloads/config.php",
+		"/C/Users/Damir Kuhada/Desktop/7sekundi.md",
+		"/C/Users/Damir Kuhada/Desktop/Potencijalni/kandidati.md",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/clean/home.html",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/clean/jsc/main.js",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/clean/css/main.css",
+		"/C/Users/Damir Kuhada/Desktop/template.css",
+		"/C/Users/Damir Kuhada/Desktop/SixSigma.md",
+		"/C/Users/Damir Kuhada/Desktop/6sigma.md",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/clean/css/typo.css",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/html/css/skin.css",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/html/category.html",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/clean/css/menu.css",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/clean/css/base.css",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/clean/css/grid.css",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/html/css/base.css",
+		"/C/Users/Damir Kuhada/Documents/reygoch/css/base.css",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/html/index.html",
+		"/C/Users/Damir Kuhada/Documents/reygoch/outline.md",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/html/css/home.css",
+		"/C/Users/Damir Kuhada/Desktop/reygoch-logo.svg",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/html/css/main.css",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/html/jsc",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/html/img/reygoch-logo.svg",
+		"/C/Users/Damir Kuhada/Desktop/MojiProgrami/Adobe Illustrator CC 2015 19.0.0 (64-Bit) + Crack/ReadMe.txt",
+		"/C/Users/Damir Kuhada/Desktop/hosts",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/html/colors",
+		"/C/Users/Damir Kuhada/Documents/reygoch/css/skin.css",
+		"/C/Users/Damir Kuhada/Desktop/reygoch/symphony/lib/boot/defines.php",
+		"/C/Users/Damir Kuhada/Documents/reygoch/css/main.css",
+		"/C/Users/Damir Kuhada/Documents/reygoch/css/grid.css",
+		"/C/Users/Damir Kuhada/Documents/reygoch/jsc/index.js",
+		"/C/Users/Damir Kuhada/Documents/reygoch/css/core.css",
+		"/C/Users/Damir Kuhada/Documents/reygoch/css/menu.css",
+		"/C/Users/Damir Kuhada/Documents/reygoch/css/typo.css",
+		"/C/Users/Damir Kuhada/Documents/reygoch/journal.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"data",
+			"Chart ",
+			"chart",
+			"featured",
+			"current-page",
+			"Previous",
+			"pageSep",
+			"JavaScript",
+			"span",
+			"unslider",
+			"der",
+			".content",
+			"data",
+			"width",
+			"klingon",
+			"lang",
+			".jpg",
+			"images/",
+			"image/",
+			"manufacturer_result",
+			"product-right",
+			"bura dinač",
+			";relaksacija;",
+			";posebna prigoda;",
+			";vecera s drustvom;",
+			";RuČak;",
+			";rucak;",
+			";lagani rucak;",
+			";Poklon;",
+			";piknik;",
+			";slatko;",
+			";suho;",
+			";VRH;",
+			"Srednja i juzna Dalmacija",
+			"Crno Kvalitetnolitetno",
+			";VRH;",
+			"KV.",
+			"vinogorje",
+			"tjestenine",
+			"Tvrdi sirevi",
+			"kolaci",
+			"Divljac",
+			"Desertno vino",
+			"Crno vrhunsko",
+			"Crno kvalitetno",
+			"Bijela vina",
+			"Rose vina",
+			"kategorija",
+			" lit;",
+			" ;",
+			"127.0.0.1",
+			"wwwpeninsula",
+			"vinarija",
+			"peninsula",
+			"vinarija",
+			"vinobiz_ocus",
+			"Lozinka01",
+			"vinobiz_ocdb",
+			"<div class=\"image\">\n								<img src=\".*\" alt=\".*\">\n							</div>",
+			"0",
+			"content",
+			"10000px",
+			"240",
+			"254",
+			"<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aut consequatur itaque ducimus harum numquam blanditiis. Consequuntur necessitatibus aut sapiente dolores ducimus labore dolor repudiandae corporis. Modi inventore veritatis ut.</p>",
+			"240",
+			"254",
+			"9660",
+			"About",
+			"Services",
+			"content",
+			"Mathematics",
+			"<script",
+			"<h1",
+			"product-title",
+			"logo",
+			"BODY",
+			"OPEN",
+			"9964",
+			"<div",
+			"Mega Filter PRO",
+			"<div",
+			"Mega Filter PRO",
+			"vqmod",
+			"Mega Filter PRO",
+			"mfilter_core",
+			"reactivate",
+			"MIDDLE",
+			"expression",
+			"categorylrppo",
+			"getCategory",
+			"$text_model",
+			"<tr><td><span><?php echo $text_model; ?></span></td><td class=\"description-right\"><?php echo $model; ?></td></tr>",
+			"text_model",
+			"Bestseller",
+			"iligo",
+			"model",
+			"$model",
+			"tagine",
+			"siteSlogan",
+			"BRANDING",
+			"HEADER",
+			"grid",
+			"../image/catalog/blog......",
+			"$result = $this->db->query(\"SELECT code FROM `\" . DB_PREFIX . \"extension` WHERE `code` = 'top_header_links'\");",
+			"product-thumb",
+			"product_content",
+			"<?php echo $footer; ?>",
+			"<?php echo $pagination; ?>",
+			"<div class=\"product-layout product-list col-xs-12\">",
+			"class=\"product_content\"",
+			"<?php foreach ($products as $product) { ?>",
+			"<file",
+			"catalog/view/theme/bershka/",
+			"catalog/view/theme/bershka",
+			"new.fanzoj.hr",
+			"/home/newfanzoj/public_html/",
+			"new.fanzoj.hr",
+			"heading_title",
+			"Bestseller",
+			"http://dolinakonoplje.hr/",
+			"/home/dolinako/public_html/",
+			"http://dolinakonoplje.hr/",
+			"breadcrumb",
+			"$data['categories']",
+			"C:/Users/Damir Kuhada/Desktop/vinarija",
+			"127.0.0.1/vinarija",
+			"Vinogorje"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			";Relaksacija;",
+			";Posebna prigoda;",
+			";Večera s društvom;",
+			";Ručak;",
+			";RuČak;",
+			";Lagani ručak;",
+			";Poklon;",
+			";Piknik;",
+			";Slatko;",
+			";Suho;",
+			";Vhunsko;",
+			"Srednja i južna Dalmacija",
+			"Crno Kvalitetno",
+			";VRH;",
+			"Kvalitetno",
+			"Tjestenine",
+			"Tvrdi sirevi",
+			"Kolači",
+			"Divljač",
+			"Desertno Vino",
+			"Crno Vrhunsko",
+			"Crno Kvalitetno",
+			"Bijela Vina",
+			"Rose Vina",
+			";",
+			"localhost",
+			"",
+			"http://placehold.it/366x255",
+			"",
+			"fanzoj.hr",
+			"/home/fanzojhr/public_html/",
+			"fanzoj.hr",
+			"http://localhost/dolina/",
+			"C:\\Users\\Damir Kuhada\\Desktop\\dolina/",
+			"http://localhost/dolina/",
+			"/home/vinobiz/public_html/shop",
+			"peninsula.hr/shop"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 476.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 140.0
+	},
+	"pinned_build_system": "",
+	"project": "parlament-scraper.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"incss",
+				"theme\\resources\\css\\index.css"
+			],
+			[
+				"tranba",
+				"theme\\resources\\js\\transactions.backup.js"
+			],
+			[
+				"tranjs",
+				"theme\\resources\\js\\transactions.js"
+			],
+			[
+				"inde",
+				"reygoch\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
