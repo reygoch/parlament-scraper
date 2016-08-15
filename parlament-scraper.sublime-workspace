@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"frameI",
+				"window.frameElement	Window"
+			],
+			[
+				"forEach",
+				"forEach(callback)	Array"
+			],
+			[
+				"payermous",
+				"playerMouseMove"
+			],
+			[
+				"of",
+				"offsetY"
+			],
+			[
 				"repo",
 				"reportMonths"
 			],
@@ -143,6 +159,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/reygoch/Desktop/specifikacija-projekta.md",
+			"settings":
+			{
+				"buffer_size": 8350,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -152,9 +176,21 @@
 	"command_palette":
 	{
 		"height": 342.0,
-		"last_filter": "xslt",
+		"last_filter": "previ",
 		"selected_items":
 		[
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"xslt",
 				"Set Syntax: XSLT"
@@ -172,20 +208,8 @@
 				"Markdown Preview: Preview in Browser"
 			],
 			[
-				"mark",
-				"Set Syntax: Markdown"
-			],
-			[
-				"previ",
-				"Markdown Preview: Preview in Browser"
-			],
-			[
 				"xaml",
 				"Set Syntax: XAML"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"disa",
@@ -257,10 +281,23 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Damir Kuhada/Desktop/parlament-scraper"
 	],
 	"file_history":
 	[
+		"/C/Users/reygoch/Desktop/deegeetal-hocky/jsc/hocky.js",
+		"/C/Users/reygoch/Desktop/hacky-game/jsc/entities/Player.js",
+		"/C/Users/reygoch/Desktop/hacky-game/index.html",
+		"/C/Users/reygoch/Desktop/hacky-game/jsc/Hacky.js",
+		"/C/Users/reygoch/Desktop/deegeetal-hocky/index.html",
+		"/C/Users/reygoch/Desktop/hacky-game/jsc/index.js",
+		"/C/Users/reygoch/Desktop/deegeetal-hocky/jsc/game/Player.js",
+		"/C/Users/reygoch/Desktop/deegeetal-hocky/jsc/game/Enemy.js",
+		"/C/Users/reygoch/Desktop/deegeetal-hocky/jsc/index.js",
+		"/C/Users/reygoch/Desktop/deegeetal-hocky/css/index.css",
+		"/C/Users/reygoch/Desktop/parlament-scraper/src/Main.hs",
+		"/C/Users/reygoch/Desktop/practice.hs",
+		"/C/Users/reygoch/Desktop/parlament-scraper/parlament-scraper.cabal",
+		"/C/Users/reygoch/Desktop/parlament-scraper/test.html",
 		"/C/Users/Damir Kuhada/Desktop/flowershop/manifest/config.php",
 		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/pages/contact.xsl",
 		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/resources/css/index.css",
@@ -374,21 +411,7 @@
 		"/C/Users/Damir Kuhada/Documents/reygoch/outline.md",
 		"/C/Users/Damir Kuhada/Desktop/reygoch/html/css/home.css",
 		"/C/Users/Damir Kuhada/Desktop/reygoch-logo.svg",
-		"/C/Users/Damir Kuhada/Desktop/reygoch/html/css/main.css",
-		"/C/Users/Damir Kuhada/Desktop/reygoch/html/jsc",
-		"/C/Users/Damir Kuhada/Desktop/reygoch/html/img/reygoch-logo.svg",
-		"/C/Users/Damir Kuhada/Desktop/MojiProgrami/Adobe Illustrator CC 2015 19.0.0 (64-Bit) + Crack/ReadMe.txt",
-		"/C/Users/Damir Kuhada/Desktop/hosts",
-		"/C/Users/Damir Kuhada/Desktop/reygoch/html/colors",
-		"/C/Users/Damir Kuhada/Documents/reygoch/css/skin.css",
-		"/C/Users/Damir Kuhada/Desktop/reygoch/symphony/lib/boot/defines.php",
-		"/C/Users/Damir Kuhada/Documents/reygoch/css/main.css",
-		"/C/Users/Damir Kuhada/Documents/reygoch/css/grid.css",
-		"/C/Users/Damir Kuhada/Documents/reygoch/jsc/index.js",
-		"/C/Users/Damir Kuhada/Documents/reygoch/css/core.css",
-		"/C/Users/Damir Kuhada/Documents/reygoch/css/menu.css",
-		"/C/Users/Damir Kuhada/Documents/reygoch/css/typo.css",
-		"/C/Users/Damir Kuhada/Documents/reygoch/journal.html"
+		"/C/Users/Damir Kuhada/Desktop/reygoch/html/css/main.css"
 	],
 	"find":
 	{
@@ -406,6 +429,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ds",
+			"p.",
+			"press",
+			"entity",
+			"object",
+			"images",
+			"333",
+			"options",
+			"Hocky",
 			"data",
 			"Chart ",
 			"chart",
@@ -524,16 +556,7 @@
 			"new.fanzoj.hr",
 			"/home/newfanzoj/public_html/",
 			"new.fanzoj.hr",
-			"heading_title",
-			"Bestseller",
-			"http://dolinakonoplje.hr/",
-			"/home/dolinako/public_html/",
-			"http://dolinakonoplje.hr/",
-			"breadcrumb",
-			"$data['categories']",
-			"C:/Users/Damir Kuhada/Desktop/vinarija",
-			"127.0.0.1/vinarija",
-			"Vinogorje"
+			"heading_title"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -588,8 +611,40 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/reygoch/Desktop/specifikacija-projekta.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2704,
+								2704
+							]
+						],
+						"settings":
+						{
+							"parser": "github",
+							"spell_check": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"target": "disk"
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -650,6 +705,14 @@
 		"selected_items":
 		[
 			[
+				"in",
+				"deegeetal-hocky\\index.html"
+			],
+			[
+				"ind",
+				"deegeetal-hocky\\index.html"
+			],
+			[
 				"incss",
 				"theme\\resources\\css\\index.css"
 			],
@@ -690,7 +753,7 @@
 	"settings":
 	{
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,

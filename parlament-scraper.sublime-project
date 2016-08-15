@@ -11,9 +11,16 @@
 			],
 			"folder_exclude_patterns":
 			[
-				".cabal-sandbox"
+				".cabal-sandbox",
+				"dist"
 			],
 			"path": "."
+		},
+		{
+			"path": "C:\\Users\\reygoch\\Desktop\\hacky-game"
+		},
+		{
+			"path": "C:\\Users\\reygoch\\Desktop\\deegeetal-hocky"
 		}
 	]
 }
