@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"ma",
+				"manyTill"
+			],
+			[
 				"frameI",
 				"window.frameElement	Window"
 			],
@@ -160,10 +164,18 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/reygoch/Desktop/specifikacija-projekta.md",
+			"file": "src/GetHtml.hs",
 			"settings":
 			{
-				"buffer_size": 8350,
+				"buffer_size": 297,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/ParseLinks.hs",
+			"settings":
+			{
+				"buffer_size": 1317,
 				"line_ending": "Windows"
 			}
 		}
@@ -281,23 +293,29 @@
 	},
 	"expanded_folders":
 	[
+		"/C/Users/reygoch/Desktop/parlament-scraper",
+		"/C/Users/reygoch/Desktop/parlament-scraper/src"
 	],
 	"file_history":
 	[
-		"/C/Users/reygoch/Desktop/deegeetal-hocky/jsc/hocky.js",
-		"/C/Users/reygoch/Desktop/hacky-game/jsc/entities/Player.js",
+		"/C/Users/reygoch/Desktop/parlament-scraper/src/Main.hs",
+		"/C/Users/reygoch/Desktop/parlament-scraper/src/GetHtml.hs",
+		"/C/Users/reygoch/Desktop/parlament-scraper/src/ParseLinks.hs",
+		"/C/Users/reygoch/Desktop/parlament-scraper/test.html",
 		"/C/Users/reygoch/Desktop/hacky-game/index.html",
 		"/C/Users/reygoch/Desktop/hacky-game/jsc/Hacky.js",
-		"/C/Users/reygoch/Desktop/deegeetal-hocky/index.html",
+		"/C/Users/reygoch/Desktop/hacky-game/jsc/entities/Player.js",
 		"/C/Users/reygoch/Desktop/hacky-game/jsc/index.js",
+		"/C/Users/reygoch/Desktop/parlament-scraper/parlament-scraper.cabal",
+		"/C/Users/reygoch/Desktop/deegeetal-hocky/jsc/hocky.js",
+		"/C/Users/reygoch/Desktop/hacky-game/css/index.css",
+		"/C/Users/reygoch/Desktop/specifikacija-projekta.md",
+		"/C/Users/reygoch/Desktop/deegeetal-hocky/index.html",
 		"/C/Users/reygoch/Desktop/deegeetal-hocky/jsc/game/Player.js",
 		"/C/Users/reygoch/Desktop/deegeetal-hocky/jsc/game/Enemy.js",
 		"/C/Users/reygoch/Desktop/deegeetal-hocky/jsc/index.js",
 		"/C/Users/reygoch/Desktop/deegeetal-hocky/css/index.css",
-		"/C/Users/reygoch/Desktop/parlament-scraper/src/Main.hs",
 		"/C/Users/reygoch/Desktop/practice.hs",
-		"/C/Users/reygoch/Desktop/parlament-scraper/parlament-scraper.cabal",
-		"/C/Users/reygoch/Desktop/parlament-scraper/test.html",
 		"/C/Users/Damir Kuhada/Desktop/flowershop/manifest/config.php",
 		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/pages/contact.xsl",
 		"/C/Users/Damir Kuhada/Desktop/flowershop/workspace/theme/resources/css/index.css",
@@ -407,11 +425,7 @@
 		"/C/Users/Damir Kuhada/Desktop/reygoch/clean/css/grid.css",
 		"/C/Users/Damir Kuhada/Desktop/reygoch/html/css/base.css",
 		"/C/Users/Damir Kuhada/Documents/reygoch/css/base.css",
-		"/C/Users/Damir Kuhada/Desktop/reygoch/html/index.html",
-		"/C/Users/Damir Kuhada/Documents/reygoch/outline.md",
-		"/C/Users/Damir Kuhada/Desktop/reygoch/html/css/home.css",
-		"/C/Users/Damir Kuhada/Desktop/reygoch-logo.svg",
-		"/C/Users/Damir Kuhada/Desktop/reygoch/html/css/main.css"
+		"/C/Users/Damir Kuhada/Desktop/reygoch/html/index.html"
 	],
 	"find":
 	{
@@ -429,6 +443,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"do",
+			"graphic",
 			"ds",
 			"p.",
 			"press",
@@ -554,9 +570,7 @@
 			"catalog/view/theme/bershka/",
 			"catalog/view/theme/bershka",
 			"new.fanzoj.hr",
-			"/home/newfanzoj/public_html/",
-			"new.fanzoj.hr",
-			"heading_title"
+			"/home/newfanzoj/public_html/"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -611,35 +625,60 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/reygoch/Desktop/specifikacija-projekta.md",
+					"file": "src/GetHtml.hs",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8350,
+						"buffer_size": 297,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2704,
-								2704
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"parser": "github",
-							"spell_check": true,
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"target": "disk"
+							"syntax": "Packages/Haskell/Haskell.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 540.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/ParseLinks.hs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								399,
+								399
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Haskell/Haskell.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 291.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
