@@ -61,7 +61,7 @@ profile = do
   pParty <- partyP
   anyChar `manyTill` (try $ lookAhead imageLinkP)
   pImageLink <- imageLinkP
-  pDescription <- anyChar `manyTill` (string "</p>")
+  pDescription <- anyChar `manyTill` (char '<')
   return $ Profile pName pSurname pParty pImageLink pDescription
 
 --
@@ -103,13 +103,13 @@ partyP = do
 
 -- image example :
 -- <img style="HEIGHT: 219px; WIDTH: 170px" border="0" hspace="5" alt="Irena Petrijevčanin Vuksanović" src="lgs.axd?t=16&amp;id=44476" width="170" align="left" height="219" />
-
+-- <img style="HEIGHT: 216px; WIDTH: 170px" border="0" hspace="5" alt="Davor Bernardić " src="lgs.axd?t=16&amp;id=45059" width="170" align="left" height="216" />
 imageLinkPTest :: String
 imageLinkPTest = "<img style=\"HEIGHT: 219px; WIDTH: 170px\" border=\"0\" hspace=\"5\" alt=\"Irena Petrijevčanin Vuksanović\" src=\"lgs.axd?t=16&amp;id=44476\" width=\"170\" align=\"left\" height=\"219\" />"
 
 imageLinkP :: Parser String
 imageLinkP = do
-  string "<img style=\"HEIGHT: 219px; WIDTH: 170px\""
+  string "<img style=\"HEIGHT:"
   anyChar `manyTill` (try $ string "src=\"")
   result <- anyChar `manyTill` (char '"')
   anyChar `manyTill` char '>'
