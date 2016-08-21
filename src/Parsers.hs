@@ -113,9 +113,7 @@ imageLinkP = do
   anyChar `manyTill` (try $ string "src=\"")
   result <- anyChar `manyTill` (char '"')
   anyChar `manyTill` char '>'
-  return result
-
-
+  return $ replace "&amp;" "&" result
 
 nameSurname :: String -> (String, String)
 nameSurname =  separate . map dashing . words . map toLower

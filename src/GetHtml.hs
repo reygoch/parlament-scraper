@@ -1,4 +1,4 @@
-module GetHtml (URL, getHtml) where
+module GetHtml (URL, getHtml, getImage) where
 
 import Network.HTTP.Client
 import Data.ByteString.Lazy (ByteString)
@@ -14,3 +14,12 @@ getHtml url = do
   res <- httpLbs req man
 
   return $ toString $ responseBody res
+
+getImage :: String -> IO ByteString
+getImage url = do
+  man <- newManager defaultManagerSettings
+
+  req <- parseRequest url
+  res <- httpLbs req man
+
+  return $ responseBody res

@@ -69,7 +69,8 @@ executable parlament-scraper
     , utf8-string >= 1.0.1.1
     , split >= 0.2.3.1
     , extra >= 1.5
-  
+    , directory
+    
   -- Directories containing source files.
   hs-source-dirs:      src
   
