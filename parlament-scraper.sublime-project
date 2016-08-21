@@ -2,6 +2,9 @@
 	"folders":
 	[
 		{
+			"path": "C:\\Users\\reygoch\\Desktop\\hacky-game"
+		},
+		{
 			"file_exclude_patterns":
 			[
 				"parlament-scraper.sublime-project",
@@ -15,12 +18,6 @@
 				"dist"
 			],
 			"path": "."
-		},
-		{
-			"path": "C:\\Users\\reygoch\\Desktop\\hacky-game"
-		},
-		{
-			"path": "C:\\Users\\reygoch\\Desktop\\deegeetal-hocky"
 		}
 	]
 }

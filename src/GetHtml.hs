@@ -1,4 +1,4 @@
-module GetHtml (URL, getHtml) where
+module GetHtml (URL, getHtml, btos) where
 
 import Network.HTTP.Client
 import Data.ByteString.Lazy (ByteString)
@@ -13,3 +13,6 @@ getHtml url = do
   res <- httpLbs req man
 
   return $ responseBody res
+
+btos :: ByteString -> String
+btos = read . show
